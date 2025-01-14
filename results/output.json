@@ -1,0 +1,6593 @@
+[
+    {
+        "file_name": "GN CAR 81333-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9739622473716736
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 244.0,
+                    "green": 243.0,
+                    "blue": 239.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6097-3.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9675576090812683
+            },
+            {
+                "description": "Brown",
+                "score": 0.9134860038757324
+            },
+            {
+                "description": "Visual arts",
+                "score": 0.8488044738769531
+            },
+            {
+                "description": "Motif",
+                "score": 0.7989032864570618
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.7711616158485413
+            },
+            {
+                "description": "Symmetry",
+                "score": 0.7047982811927795
+            },
+            {
+                "description": "Ornament",
+                "score": 0.6786369681358337
+            },
+            {
+                "description": "Design",
+                "score": 0.668267011642456
+            },
+            {
+                "description": "Pattern",
+                "score": 0.631618857383728
+            },
+            {
+                "description": "Floral design",
+                "score": 0.5338925123214722
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 205.0,
+                    "green": 191.0,
+                    "blue": 172.0
+                },
+                "score": 0.23964852094650269
+            },
+            {
+                "color": {
+                    "red": 95.0,
+                    "green": 83.0,
+                    "blue": 67.0
+                },
+                "score": 0.1951807141304016
+            },
+            {
+                "color": {
+                    "red": 129.0,
+                    "green": 117.0,
+                    "blue": 99.0
+                },
+                "score": 0.11858350783586502
+            },
+            {
+                "color": {
+                    "red": 93.0,
+                    "green": 84.0,
+                    "blue": 75.0
+                },
+                "score": 0.11539555341005325
+            },
+            {
+                "color": {
+                    "red": 168.0,
+                    "green": 154.0,
+                    "blue": 137.0
+                },
+                "score": 0.10796590149402618
+            },
+            {
+                "color": {
+                    "red": 123.0,
+                    "green": 113.0,
+                    "blue": 104.0
+                },
+                "score": 0.07980425655841827
+            },
+            {
+                "color": {
+                    "red": 206.0,
+                    "green": 193.0,
+                    "blue": 182.0
+                },
+                "score": 0.0519617423415184
+            },
+            {
+                "color": {
+                    "red": 162.0,
+                    "green": 153.0,
+                    "blue": 142.0
+                },
+                "score": 0.0510319359600544
+            },
+            {
+                "color": {
+                    "red": 71.0,
+                    "green": 58.0,
+                    "blue": 43.0
+                },
+                "score": 0.02288065105676651
+            },
+            {
+                "color": {
+                    "red": 70.0,
+                    "green": 62.0,
+                    "blue": 53.0
+                },
+                "score": 0.008528385311365128
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6096-2.jpg",
+        "labels": [
+            {
+                "description": "Brown",
+                "score": 0.916410505771637
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.6059889793395996
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 225.0,
+                    "green": 218.0,
+                    "blue": 202.0
+                },
+                "score": 0.8826319575309753
+            },
+            {
+                "color": {
+                    "red": 226.0,
+                    "green": 217.0,
+                    "blue": 202.0
+                },
+                "score": 0.11736805737018585
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81339-3.jpg",
+        "labels": [
+            {
+                "description": "Silver",
+                "score": 0.7021172046661377
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 233.0,
+                    "green": 233.0,
+                    "blue": 225.0
+                },
+                "score": 0.8888508677482605
+            },
+            {
+                "color": {
+                    "red": 210.0,
+                    "green": 210.0,
+                    "blue": 202.0
+                },
+                "score": 0.11114911735057831
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6082-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.96885085105896
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 240.0,
+                    "green": 235.0,
+                    "blue": 230.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8604-2.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9674155712127686
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Linen",
+                "score": 0.6893346309661865
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5612840056419373
+            },
+            {
+                "description": "Linens",
+                "score": 0.5482058525085449
+            },
+            {
+                "description": "Woven fabric",
+                "score": 0.5248677730560303
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 217.0,
+                    "green": 210.0,
+                    "blue": 204.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81333-4.jpg",
+        "labels": [
+            {
+                "description": "Natural material",
+                "score": 0.6924120187759399
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 116.0,
+                    "green": 123.0,
+                    "blue": 112.0
+                },
+                "score": 0.8795468807220459
+            },
+            {
+                "color": {
+                    "red": 138.0,
+                    "green": 144.0,
+                    "blue": 133.0
+                },
+                "score": 0.07421886175870895
+            },
+            {
+                "color": {
+                    "red": 91.0,
+                    "green": 98.0,
+                    "blue": 87.0
+                },
+                "score": 0.03996549919247627
+            },
+            {
+                "color": {
+                    "red": 121.0,
+                    "green": 128.0,
+                    "blue": 109.0
+                },
+                "score": 0.005262761376798153
+            },
+            {
+                "color": {
+                    "red": 139.0,
+                    "green": 146.0,
+                    "blue": 128.0
+                },
+                "score": 0.0008206088095903397
+            },
+            {
+                "color": {
+                    "red": 96.0,
+                    "green": 102.0,
+                    "blue": 84.0
+                },
+                "score": 0.0001853944850154221
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8621-2.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.966428279876709
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Design",
+                "score": 0.6761782765388489
+            },
+            {
+                "description": "Triangle",
+                "score": 0.6264638304710388
+            },
+            {
+                "description": "Pattern",
+                "score": 0.5805523991584778
+            },
+            {
+                "description": "Motif",
+                "score": 0.5223081707954407
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 231.0,
+                    "green": 232.0,
+                    "blue": 230.0
+                },
+                "score": 0.9945746064186096
+            },
+            {
+                "color": {
+                    "red": 212.0,
+                    "green": 212.0,
+                    "blue": 210.0
+                },
+                "score": 0.00542536610737443
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6083-4.jpg",
+        "labels": [
+            {
+                "description": "Brown",
+                "score": 0.9209979176521301
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 211.0,
+                    "green": 188.0,
+                    "blue": 154.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6101-3.jpg",
+        "labels": [
+            {
+                "description": "Ornament",
+                "score": 0.7458547949790955
+            },
+            {
+                "description": "Motif",
+                "score": 0.6956149339675903
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.6143099069595337
+            },
+            {
+                "description": "Wrapping Paper",
+                "score": 0.5267491340637207
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 210.0,
+                    "green": 230.0,
+                    "blue": 227.0
+                },
+                "score": 0.793424665927887
+            },
+            {
+                "color": {
+                    "red": 208.0,
+                    "green": 209.0,
+                    "blue": 183.0
+                },
+                "score": 0.055636923760175705
+            },
+            {
+                "color": {
+                    "red": 207.0,
+                    "green": 232.0,
+                    "blue": 228.0
+                },
+                "score": 0.12820421159267426
+            },
+            {
+                "color": {
+                    "red": 207.0,
+                    "green": 214.0,
+                    "blue": 199.0
+                },
+                "score": 0.012657621875405312
+            },
+            {
+                "color": {
+                    "red": 214.0,
+                    "green": 219.0,
+                    "blue": 196.0
+                },
+                "score": 0.0069563244469463825
+            },
+            {
+                "color": {
+                    "red": 204.0,
+                    "green": 215.0,
+                    "blue": 184.0
+                },
+                "score": 0.0009083552868105471
+            },
+            {
+                "color": {
+                    "red": 207.0,
+                    "green": 221.0,
+                    "blue": 194.0
+                },
+                "score": 0.0007870299741625786
+            },
+            {
+                "color": {
+                    "red": 197.0,
+                    "green": 234.0,
+                    "blue": 245.0
+                },
+                "score": 0.0006492958054877818
+            },
+            {
+                "color": {
+                    "red": 206.0,
+                    "green": 234.0,
+                    "blue": 247.0
+                },
+                "score": 0.0006290916353464127
+            },
+            {
+                "color": {
+                    "red": 201.0,
+                    "green": 218.0,
+                    "blue": 200.0
+                },
+                "score": 0.00014645859482698143
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6089-2.jpg",
+        "labels": [
+            {
+                "description": "Wildflower",
+                "score": 0.6321353316307068
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5709481239318848
+            },
+            {
+                "description": "Pedicel",
+                "score": 0.5557762384414673
+            },
+            {
+                "description": "Rug",
+                "score": 0.5392013192176819
+            },
+            {
+                "description": "Motif",
+                "score": 0.5280089974403381
+            },
+            {
+                "description": "Floral design",
+                "score": 0.522213876247406
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 163.0,
+                    "green": 155.0,
+                    "blue": 124.0
+                },
+                "score": 0.47479888796806335
+            },
+            {
+                "color": {
+                    "red": 133.0,
+                    "green": 129.0,
+                    "blue": 101.0
+                },
+                "score": 0.16967758536338806
+            },
+            {
+                "color": {
+                    "red": 196.0,
+                    "green": 188.0,
+                    "blue": 155.0
+                },
+                "score": 0.15818268060684204
+            },
+            {
+                "color": {
+                    "red": 142.0,
+                    "green": 156.0,
+                    "blue": 124.0
+                },
+                "score": 0.07866588979959488
+            },
+            {
+                "color": {
+                    "red": 114.0,
+                    "green": 129.0,
+                    "blue": 101.0
+                },
+                "score": 0.0759691596031189
+            },
+            {
+                "color": {
+                    "red": 110.0,
+                    "green": 121.0,
+                    "blue": 104.0
+                },
+                "score": 0.009311197325587273
+            },
+            {
+                "color": {
+                    "red": 203.0,
+                    "green": 158.0,
+                    "blue": 129.0
+                },
+                "score": 0.009268202818930149
+            },
+            {
+                "color": {
+                    "red": 180.0,
+                    "green": 156.0,
+                    "blue": 112.0
+                },
+                "score": 0.007937627844512463
+            },
+            {
+                "color": {
+                    "red": 179.0,
+                    "green": 190.0,
+                    "blue": 157.0
+                },
+                "score": 0.0059198616072535515
+            },
+            {
+                "color": {
+                    "red": 139.0,
+                    "green": 147.0,
+                    "blue": 130.0
+                },
+                "score": 0.0024021740537136793
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8609-2.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.97272789478302
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 232.0,
+                    "green": 232.0,
+                    "blue": 232.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81336-2.jpg",
+        "labels": [
+            {
+                "description": "Brown",
+                "score": 0.9223556518554688
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5866563320159912
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 244.0,
+                    "green": 231.0,
+                    "blue": 213.0
+                },
+                "score": 0.6406175494194031
+            },
+            {
+                "color": {
+                    "red": 247.0,
+                    "green": 238.0,
+                    "blue": 224.0
+                },
+                "score": 0.35938242077827454
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6099-3.jpg",
+        "labels": [
+            {
+                "description": "Brown",
+                "score": 0.9216933250427246
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 209.0,
+                    "green": 183.0,
+                    "blue": 150.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6083-5.jpg",
+        "labels": [
+            {
+                "description": "Brown",
+                "score": 0.9273082613945007
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 152.0,
+                    "green": 126.0,
+                    "blue": 101.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81337-4.jpg",
+        "labels": [
+            {
+                "description": "Flooring",
+                "score": 0.9247689843177795
+            },
+            {
+                "description": "Floor",
+                "score": 0.918140172958374
+            },
+            {
+                "description": "Brown",
+                "score": 0.9156438708305359
+            },
+            {
+                "description": "Plaster",
+                "score": 0.5856326818466187
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5502350926399231
+            },
+            {
+                "description": "Wood flooring",
+                "score": 0.5176111459732056
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 191.0,
+                    "green": 182.0,
+                    "blue": 167.0
+                },
+                "score": 0.503434419631958
+            },
+            {
+                "color": {
+                    "red": 176.0,
+                    "green": 167.0,
+                    "blue": 152.0
+                },
+                "score": 0.4965032637119293
+            },
+            {
+                "color": {
+                    "red": 223.0,
+                    "green": 214.0,
+                    "blue": 199.0
+                },
+                "score": 6.231905717868358e-05
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6090-4.jpg",
+        "labels": [
+            {
+                "description": "Pink",
+                "score": 0.9352537989616394
+            },
+            {
+                "description": "Purple",
+                "score": 0.9226740002632141
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 165.0,
+                    "green": 149.0,
+                    "blue": 175.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8622-2.jpg",
+        "labels": [
+            {
+                "description": "Triangle",
+                "score": 0.5911735892295837
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5645808577537537
+            },
+            {
+                "description": "Motif",
+                "score": 0.5339136719703674
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 240.0,
+                    "green": 234.0,
+                    "blue": 223.0
+                },
+                "score": 0.8456254005432129
+            },
+            {
+                "color": {
+                    "red": 213.0,
+                    "green": 206.0,
+                    "blue": 194.0
+                },
+                "score": 0.08800236880779266
+            },
+            {
+                "color": {
+                    "red": 232.0,
+                    "green": 224.0,
+                    "blue": 207.0
+                },
+                "score": 0.04696671664714813
+            },
+            {
+                "color": {
+                    "red": 215.0,
+                    "green": 206.0,
+                    "blue": 189.0
+                },
+                "score": 0.01940549910068512
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8612-4.jpg",
+        "labels": [
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Silver",
+                "score": 0.7528160810470581
+            },
+            {
+                "description": "Natural material",
+                "score": 0.6892150044441223
+            },
+            {
+                "description": "Design",
+                "score": 0.6789040565490723
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5316970944404602
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 185.0,
+                    "green": 180.0,
+                    "blue": 174.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81333-5.jpg",
+        "labels": [
+            {
+                "description": "Brown",
+                "score": 0.9215726256370544
+            },
+            {
+                "description": "Rug",
+                "score": 0.7292307019233704
+            },
+            {
+                "description": "Natural material",
+                "score": 0.6805226802825928
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 214.0,
+                    "green": 181.0,
+                    "blue": 131.0
+                },
+                "score": 0.9913048148155212
+            },
+            {
+                "color": {
+                    "red": 201.0,
+                    "green": 168.0,
+                    "blue": 117.0
+                },
+                "score": 0.008695187047123909
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8626-1.jpg",
+        "labels": [
+            {
+                "description": "Wood",
+                "score": 0.967211902141571
+            },
+            {
+                "description": "Brown",
+                "score": 0.9225272536277771
+            },
+            {
+                "description": "Flooring",
+                "score": 0.9122195243835449
+            },
+            {
+                "description": "Wood flooring",
+                "score": 0.8615853190422058
+            },
+            {
+                "description": "Plank",
+                "score": 0.7791166305541992
+            },
+            {
+                "description": "Hardwood",
+                "score": 0.7575779557228088
+            },
+            {
+                "description": "Natural material",
+                "score": 0.7534668445587158
+            },
+            {
+                "description": "Linens",
+                "score": 0.6756734848022461
+            },
+            {
+                "description": "Wood stain",
+                "score": 0.6520073413848877
+            },
+            {
+                "description": "Plywood",
+                "score": 0.5894402861595154
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 205.0,
+                    "green": 188.0,
+                    "blue": 164.0
+                },
+                "score": 0.9815264940261841
+            },
+            {
+                "color": {
+                    "red": 186.0,
+                    "green": 169.0,
+                    "blue": 144.0
+                },
+                "score": 0.01847352646291256
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6085-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9677831530570984
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 246.0,
+                    "green": 246.0,
+                    "blue": 244.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6083-2.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9749488234519958
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 242.0,
+                    "green": 241.0,
+                    "blue": 237.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6095-3.jpg",
+        "labels": [
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Natural material",
+                "score": 0.7262163162231445
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5662208199501038
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 194.0,
+                    "green": 182.0,
+                    "blue": 161.0
+                },
+                "score": 0.9492744207382202
+            },
+            {
+                "color": {
+                    "red": 184.0,
+                    "green": 172.0,
+                    "blue": 153.0
+                },
+                "score": 0.05072556063532829
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6094-1.jpg",
+        "labels": [
+            {
+                "description": "Natural material",
+                "score": 0.7301320433616638
+            },
+            {
+                "description": "Wood flooring",
+                "score": 0.704996645450592
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.565917432308197
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 215.0,
+                    "green": 201.0,
+                    "blue": 172.0
+                },
+                "score": 0.8483297824859619
+            },
+            {
+                "color": {
+                    "red": 232.0,
+                    "green": 219.0,
+                    "blue": 192.0
+                },
+                "score": 0.15113872289657593
+            },
+            {
+                "color": {
+                    "red": 225.0,
+                    "green": 216.0,
+                    "blue": 201.0
+                },
+                "score": 0.00024676581961102784
+            },
+            {
+                "color": {
+                    "red": 184.0,
+                    "green": 170.0,
+                    "blue": 141.0
+                },
+                "score": 0.00015726966375950724
+            },
+            {
+                "color": {
+                    "red": 220.0,
+                    "green": 211.0,
+                    "blue": 196.0
+                },
+                "score": 0.00012746323773171753
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8617-7.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9673612117767334
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 184.0,
+                    "green": 191.0,
+                    "blue": 175.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8613-4.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9706315994262695
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Silver",
+                "score": 0.6904690265655518
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 172.0,
+                    "green": 172.0,
+                    "blue": 170.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8607-6.jpg",
+        "labels": [
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Linen",
+                "score": 0.5525655150413513
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 203.0,
+                    "green": 213.0,
+                    "blue": 222.0
+                },
+                "score": 0.9972283244132996
+            },
+            {
+                "color": {
+                    "red": 206.0,
+                    "green": 216.0,
+                    "blue": 225.0
+                },
+                "score": 0.0027716979384422302
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8613-6.jpg",
+        "labels": [
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 200.0,
+                    "green": 210.0,
+                    "blue": 202.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN BLOOM 82096-4.jpg",
+        "labels": [
+            {
+                "description": "Brown",
+                "score": 0.9182880520820618
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.7326740622520447
+            },
+            {
+                "description": "Design",
+                "score": 0.6680027842521667
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 243.0,
+                    "green": 235.0,
+                    "blue": 217.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81329-2.jpg",
+        "labels": [
+            {
+                "description": "Pink",
+                "score": 0.9194433093070984
+            },
+            {
+                "description": "Petal",
+                "score": 0.8707520961761475
+            },
+            {
+                "description": "Wildflower",
+                "score": 0.745815098285675
+            },
+            {
+                "description": "Pedicel",
+                "score": 0.6832854747772217
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.6080308556556702
+            },
+            {
+                "description": "Floral design",
+                "score": 0.5118715763092041
+            },
+            {
+                "description": "Geraniums",
+                "score": 0.5038679242134094
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 250.0,
+                    "green": 243.0,
+                    "blue": 235.0
+                },
+                "score": 0.9901232123374939
+            },
+            {
+                "color": {
+                    "red": 212.0,
+                    "green": 204.0,
+                    "blue": 196.0
+                },
+                "score": 0.009831232950091362
+            },
+            {
+                "color": {
+                    "red": 241.0,
+                    "green": 234.0,
+                    "blue": 218.0
+                },
+                "score": 4.5541917643276975e-05
+            },
+            {
+                "color": {
+                    "red": 209.0,
+                    "green": 198.0,
+                    "blue": 182.0
+                },
+                "score": 6.688294015844143e-12
+            },
+            {
+                "color": {
+                    "red": 177.0,
+                    "green": 170.0,
+                    "blue": 162.0
+                },
+                "score": 1.6720735039610357e-12
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81331-2.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9721742868423462
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 241.0,
+                    "green": 237.0,
+                    "blue": 230.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81331-3.jpg",
+        "labels": [
+            {
+                "description": "Brown",
+                "score": 0.9158647656440735
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5088199377059937
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 237.0,
+                    "green": 224.0,
+                    "blue": 205.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8605-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.971740186214447
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 224.0,
+                    "green": 227.0,
+                    "blue": 232.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8614-6.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9676052331924438
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 225.0,
+                    "green": 224.0,
+                    "blue": 220.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6096-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9723076820373535
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 245.0,
+                    "green": 240.0,
+                    "blue": 237.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8607-7.jpg",
+        "labels": [
+            {
+                "description": "Blue",
+                "score": 0.9876337647438049
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Linen",
+                "score": 0.5909047722816467
+            },
+            {
+                "description": "Woven fabric",
+                "score": 0.503412663936615
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 191.0,
+                    "green": 203.0,
+                    "blue": 215.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6096-6.jpg",
+        "labels": [
+            {
+                "description": "Brown",
+                "score": 0.9202201962471008
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 215.0,
+                    "green": 192.0,
+                    "blue": 151.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8627-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9688812494277954
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 194.0,
+                    "green": 196.0,
+                    "blue": 195.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81328-3.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9724704027175903
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5225220918655396
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 235.0,
+                    "green": 230.0,
+                    "blue": 227.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8606-4.jpg",
+        "labels": [
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 210.0,
+                    "green": 211.0,
+                    "blue": 213.0
+                },
+                "score": 0.9962463974952698
+            },
+            {
+                "color": {
+                    "red": 214.0,
+                    "green": 215.0,
+                    "blue": 217.0
+                },
+                "score": 0.0037536262534558773
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6092-4.jpg",
+        "labels": [
+            {
+                "description": "Rug",
+                "score": 0.7671547532081604
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.6481375098228455
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 157.0,
+                    "green": 164.0,
+                    "blue": 120.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8608-3.jpg",
+        "labels": [
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 213.0,
+                    "green": 208.0,
+                    "blue": 205.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8612-2.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9676433205604553
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Silver",
+                "score": 0.7350355982780457
+            },
+            {
+                "description": "Natural material",
+                "score": 0.6850597858428955
+            },
+            {
+                "description": "Design",
+                "score": 0.6737388968467712
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 214.0,
+                    "green": 212.0,
+                    "blue": 208.0
+                },
+                "score": 0.9685267806053162
+            },
+            {
+                "color": {
+                    "red": 217.0,
+                    "green": 215.0,
+                    "blue": 211.0
+                },
+                "score": 0.031473226845264435
+            }
+        ]
+    },
+    {
+        "file_name": "GN BLOOM 82090-3.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9688336849212646
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 233.0,
+                    "green": 225.0,
+                    "blue": 223.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN BLOOM 82092-1.jpg",
+        "labels": [
+            {
+                "description": "Pink",
+                "score": 0.9418565630912781
+            },
+            {
+                "description": "Petal",
+                "score": 0.8727806806564331
+            },
+            {
+                "description": "Rose family",
+                "score": 0.6973066329956055
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.6481682658195496
+            },
+            {
+                "description": "Pedicel",
+                "score": 0.6403944492340088
+            },
+            {
+                "description": "Floral design",
+                "score": 0.6051222085952759
+            },
+            {
+                "description": "Rose",
+                "score": 0.5228148102760315
+            },
+            {
+                "description": "Wrapping Paper",
+                "score": 0.5116829872131348
+            },
+            {
+                "description": "Geraniums",
+                "score": 0.5038679242134094
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 244.0,
+                    "green": 236.0,
+                    "blue": 224.0
+                },
+                "score": 0.8225131630897522
+            },
+            {
+                "color": {
+                    "red": 238.0,
+                    "green": 235.0,
+                    "blue": 218.0
+                },
+                "score": 0.09550891816616058
+            },
+            {
+                "color": {
+                    "red": 212.0,
+                    "green": 201.0,
+                    "blue": 190.0
+                },
+                "score": 0.05470312014222145
+            },
+            {
+                "color": {
+                    "red": 205.0,
+                    "green": 200.0,
+                    "blue": 183.0
+                },
+                "score": 0.010128953494131565
+            },
+            {
+                "color": {
+                    "red": 223.0,
+                    "green": 191.0,
+                    "blue": 185.0
+                },
+                "score": 0.008013244718313217
+            },
+            {
+                "color": {
+                    "red": 247.0,
+                    "green": 216.0,
+                    "blue": 211.0
+                },
+                "score": 0.004564922768622637
+            },
+            {
+                "color": {
+                    "red": 176.0,
+                    "green": 162.0,
+                    "blue": 152.0
+                },
+                "score": 0.0024910701904445887
+            },
+            {
+                "color": {
+                    "red": 182.0,
+                    "green": 150.0,
+                    "blue": 145.0
+                },
+                "score": 0.001320783980190754
+            },
+            {
+                "color": {
+                    "red": 180.0,
+                    "green": 169.0,
+                    "blue": 155.0
+                },
+                "score": 0.0007558141951449215
+            },
+            {
+                "color": {
+                    "red": 188.0,
+                    "green": 154.0,
+                    "blue": 145.0
+                },
+                "score": 3.721380842369726e-12
+            }
+        ]
+    },
+    {
+        "file_name": "GN BLOOM 82095-1.jpg",
+        "labels": [
+            {
+                "description": "Flower",
+                "score": 0.9685860872268677
+            },
+            {
+                "description": "Pink",
+                "score": 0.939757764339447
+            },
+            {
+                "description": "Petal",
+                "score": 0.9237990975379944
+            },
+            {
+                "description": "Floral design",
+                "score": 0.7011612057685852
+            },
+            {
+                "description": "Rose family",
+                "score": 0.6608202457427979
+            },
+            {
+                "description": "Wrapping Paper",
+                "score": 0.628754198551178
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.6166200041770935
+            },
+            {
+                "description": "Pedicel",
+                "score": 0.6129926443099976
+            },
+            {
+                "description": "Rose",
+                "score": 0.5724929571151733
+            },
+            {
+                "description": "Flower Arranging",
+                "score": 0.5197238922119141
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 205.0,
+                    "green": 192.0,
+                    "blue": 166.0
+                },
+                "score": 0.4871004819869995
+            },
+            {
+                "color": {
+                    "red": 177.0,
+                    "green": 190.0,
+                    "blue": 136.0
+                },
+                "score": 0.0034072354901582003
+            },
+            {
+                "color": {
+                    "red": 239.0,
+                    "green": 229.0,
+                    "blue": 204.0
+                },
+                "score": 0.2515917420387268
+            },
+            {
+                "color": {
+                    "red": 228.0,
+                    "green": 186.0,
+                    "blue": 167.0
+                },
+                "score": 0.08920624107122421
+            },
+            {
+                "color": {
+                    "red": 174.0,
+                    "green": 163.0,
+                    "blue": 138.0
+                },
+                "score": 0.08910731971263885
+            },
+            {
+                "color": {
+                    "red": 202.0,
+                    "green": 160.0,
+                    "blue": 143.0
+                },
+                "score": 0.0329529270529747
+            },
+            {
+                "color": {
+                    "red": 145.0,
+                    "green": 132.0,
+                    "blue": 100.0
+                },
+                "score": 0.020098179578781128
+            },
+            {
+                "color": {
+                    "red": 224.0,
+                    "green": 234.0,
+                    "blue": 200.0
+                },
+                "score": 0.00856227520853281
+            },
+            {
+                "color": {
+                    "red": 151.0,
+                    "green": 163.0,
+                    "blue": 132.0
+                },
+                "score": 0.0055573005229234695
+            },
+            {
+                "color": {
+                    "red": 241.0,
+                    "green": 208.0,
+                    "blue": 191.0
+                },
+                "score": 0.0038002391811460257
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81338-1.jpg",
+        "labels": [
+            {
+                "description": "Wallpaper",
+                "score": 0.544482409954071
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 207.0,
+                    "green": 206.0,
+                    "blue": 202.0
+                },
+                "score": 0.5992500185966492
+            },
+            {
+                "color": {
+                    "red": 225.0,
+                    "green": 224.0,
+                    "blue": 220.0
+                },
+                "score": 0.40074998140335083
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81338-2.jpg",
+        "labels": [
+            {
+                "description": "Wallpaper",
+                "score": 0.5262081623077393
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 215.0,
+                    "green": 193.0,
+                    "blue": 159.0
+                },
+                "score": 0.8650667667388916
+            },
+            {
+                "color": {
+                    "red": 238.0,
+                    "green": 218.0,
+                    "blue": 186.0
+                },
+                "score": 0.13094393908977509
+            },
+            {
+                "color": {
+                    "red": 192.0,
+                    "green": 170.0,
+                    "blue": 134.0
+                },
+                "score": 0.0039013309869915247
+            },
+            {
+                "color": {
+                    "red": 198.0,
+                    "green": 180.0,
+                    "blue": 134.0
+                },
+                "score": 8.794417226454243e-05
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6083-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9777730107307434
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 246.0,
+                    "green": 246.0,
+                    "blue": 246.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6087-2.jpg",
+        "labels": [
+            {
+                "description": "Brown",
+                "score": 0.9233032464981079
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 240.0,
+                    "green": 224.0,
+                    "blue": 208.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6101-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9678463935852051
+            },
+            {
+                "description": "Ornament",
+                "score": 0.6644591689109802
+            },
+            {
+                "description": "Graphics",
+                "score": 0.6245319843292236
+            },
+            {
+                "description": "Motif",
+                "score": 0.5931402444839478
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5061787962913513
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 245.0,
+                    "green": 245.0,
+                    "blue": 244.0
+                },
+                "score": 0.9842098951339722
+            },
+            {
+                "color": {
+                    "red": 208.0,
+                    "green": 208.0,
+                    "blue": 207.0
+                },
+                "score": 0.015790101140737534
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8616-5.jpg",
+        "labels": [
+            {
+                "description": "Blue",
+                "score": 0.9889793992042542
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 159.0,
+                    "green": 179.0,
+                    "blue": 180.0
+                },
+                "score": 0.9006389379501343
+            },
+            {
+                "color": {
+                    "red": 160.0,
+                    "green": 178.0,
+                    "blue": 180.0
+                },
+                "score": 0.09936106950044632
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8602-4.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9685848355293274
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 210.0,
+                    "green": 211.0,
+                    "blue": 206.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81334-3.jpg",
+        "labels": [
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Black and white",
+                "score": 0.7914887070655823
+            },
+            {
+                "description": "Silver",
+                "score": 0.7775009870529175
+            },
+            {
+                "description": "Motif",
+                "score": 0.6590896248817444
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.6287736892700195
+            },
+            {
+                "description": "Pattern",
+                "score": 0.5575940608978271
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 205.0,
+                    "green": 205.0,
+                    "blue": 198.0
+                },
+                "score": 0.5695604681968689
+            },
+            {
+                "color": {
+                    "red": 222.0,
+                    "green": 222.0,
+                    "blue": 215.0
+                },
+                "score": 0.4252506494522095
+            },
+            {
+                "color": {
+                    "red": 173.0,
+                    "green": 172.0,
+                    "blue": 166.0
+                },
+                "score": 0.005188904702663422
+            }
+        ]
+    },
+    {
+        "file_name": "GN BLOOM 82092-2.jpg",
+        "labels": [
+            {
+                "description": "Pink",
+                "score": 0.9317077994346619
+            },
+            {
+                "description": "Purple",
+                "score": 0.8326341509819031
+            },
+            {
+                "description": "Pedicel",
+                "score": 0.5792474746704102
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5780508518218994
+            },
+            {
+                "description": "Rose family",
+                "score": 0.531522274017334
+            },
+            {
+                "description": "Floral design",
+                "score": 0.5297088027000427
+            },
+            {
+                "description": "Geraniums",
+                "score": 0.5038679242134094
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 246.0,
+                    "green": 242.0,
+                    "blue": 228.0
+                },
+                "score": 0.611218273639679
+            },
+            {
+                "color": {
+                    "red": 241.0,
+                    "green": 238.0,
+                    "blue": 220.0
+                },
+                "score": 0.33017992973327637
+            },
+            {
+                "color": {
+                    "red": 209.0,
+                    "green": 202.0,
+                    "blue": 191.0
+                },
+                "score": 0.030389685183763504
+            },
+            {
+                "color": {
+                    "red": 206.0,
+                    "green": 203.0,
+                    "blue": 186.0
+                },
+                "score": 0.026943936944007874
+            },
+            {
+                "color": {
+                    "red": 173.0,
+                    "green": 171.0,
+                    "blue": 153.0
+                },
+                "score": 0.0008966501336544752
+            },
+            {
+                "color": {
+                    "red": 176.0,
+                    "green": 171.0,
+                    "blue": 159.0
+                },
+                "score": 0.00037155693280510604
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6086-1.jpg",
+        "labels": [
+            {
+                "description": "Flower",
+                "score": 0.9687914848327637
+            },
+            {
+                "description": "Petal",
+                "score": 0.9380761384963989
+            },
+            {
+                "description": "Pink",
+                "score": 0.8913875818252563
+            },
+            {
+                "description": "Motif",
+                "score": 0.5058626532554626
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 242.0,
+                    "green": 233.0,
+                    "blue": 221.0
+                },
+                "score": 0.9686387181282043
+            },
+            {
+                "color": {
+                    "red": 242.0,
+                    "green": 233.0,
+                    "blue": 216.0
+                },
+                "score": 0.029542462900280952
+            },
+            {
+                "color": {
+                    "red": 219.0,
+                    "green": 210.0,
+                    "blue": 200.0
+                },
+                "score": 0.0018188122194260359
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8614-3.jpg",
+        "labels": [
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Rug",
+                "score": 0.6268427968025208
+            },
+            {
+                "description": "Linen",
+                "score": 0.5261375904083252
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5205324292182922
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 213.0,
+                    "green": 206.0,
+                    "blue": 199.0
+                },
+                "score": 0.9993462562561035
+            },
+            {
+                "color": {
+                    "red": 222.0,
+                    "green": 215.0,
+                    "blue": 207.0
+                },
+                "score": 0.0006537263980135322
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8602-5.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.967136025428772
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 198.0,
+                    "green": 199.0,
+                    "blue": 194.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8611-3.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9719145894050598
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Linen",
+                "score": 0.5818483233451843
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 192.0,
+                    "green": 195.0,
+                    "blue": 200.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8601-2.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.973888099193573
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 234.0,
+                    "green": 236.0,
+                    "blue": 235.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8605-2.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9702680110931396
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 207.0,
+                    "green": 210.0,
+                    "blue": 215.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8603-2.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9686660170555115
+            },
+            {
+                "description": "Textile",
+                "score": 0.9480418562889099
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Linen",
+                "score": 0.7676430344581604
+            },
+            {
+                "description": "Woven fabric",
+                "score": 0.7538574934005737
+            },
+            {
+                "description": "Silver",
+                "score": 0.7186241745948792
+            },
+            {
+                "description": "Linens",
+                "score": 0.6959056854248047
+            },
+            {
+                "description": "Rug",
+                "score": 0.615982174873352
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 198.0,
+                    "green": 197.0,
+                    "blue": 193.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8609-5.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.972353458404541
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 227.0,
+                    "green": 228.0,
+                    "blue": 230.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN BLOOM 82091-1.jpg",
+        "labels": [
+            {
+                "description": "Pink",
+                "score": 0.9074516892433167
+            },
+            {
+                "description": "Wrapping Paper",
+                "score": 0.6353944540023804
+            },
+            {
+                "description": "Floral design",
+                "score": 0.5225893259048462
+            },
+            {
+                "description": "Rose family",
+                "score": 0.5188881158828735
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5145243406295776
+            },
+            {
+                "description": "Geraniums",
+                "score": 0.503856360912323
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 247.0,
+                    "green": 240.0,
+                    "blue": 225.0
+                },
+                "score": 0.4545368254184723
+            },
+            {
+                "color": {
+                    "red": 242.0,
+                    "green": 236.0,
+                    "blue": 219.0
+                },
+                "score": 0.39387956261634827
+            },
+            {
+                "color": {
+                    "red": 209.0,
+                    "green": 201.0,
+                    "blue": 184.0
+                },
+                "score": 0.12078839540481567
+            },
+            {
+                "color": {
+                    "red": 217.0,
+                    "green": 201.0,
+                    "blue": 188.0
+                },
+                "score": 0.02158193103969097
+            },
+            {
+                "color": {
+                    "red": 176.0,
+                    "green": 164.0,
+                    "blue": 147.0
+                },
+                "score": 0.009213296696543694
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8603-4.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9669077396392822
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Silver",
+                "score": 0.7197930812835693
+            },
+            {
+                "description": "Woven fabric",
+                "score": 0.6978151798248291
+            },
+            {
+                "description": "Linen",
+                "score": 0.6656157970428467
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 151.0,
+                    "green": 146.0,
+                    "blue": 143.0
+                },
+                "score": 0.7586079835891724
+            },
+            {
+                "color": {
+                    "red": 137.0,
+                    "green": 132.0,
+                    "blue": 129.0
+                },
+                "score": 0.24139201641082764
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8605-4.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9667507410049438
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.6345695853233337
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 241.0,
+                    "green": 235.0,
+                    "blue": 223.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81331-4.jpg",
+        "labels": [
+            {
+                "description": "Yellow",
+                "score": 0.9554435014724731
+            },
+            {
+                "description": "Brown",
+                "score": 0.914278507232666
+            },
+            {
+                "description": "Rug",
+                "score": 0.8333776593208313
+            },
+            {
+                "description": "Linen",
+                "score": 0.5164620876312256
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 237.0,
+                    "green": 214.0,
+                    "blue": 161.0
+                },
+                "score": 0.998872697353363
+            },
+            {
+                "color": {
+                    "red": 235.0,
+                    "green": 212.0,
+                    "blue": 158.0
+                },
+                "score": 0.0011273138225078583
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8625-2.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9661246538162231
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Plaster",
+                "score": 0.509365975856781
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 182.0,
+                    "green": 186.0,
+                    "blue": 187.0
+                },
+                "score": 0.9929282069206238
+            },
+            {
+                "color": {
+                    "red": 170.0,
+                    "green": 174.0,
+                    "blue": 175.0
+                },
+                "score": 0.007071766071021557
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8606-3.jpg",
+        "labels": [
+            {
+                "description": "Brown",
+                "score": 0.9184154272079468
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Natural material",
+                "score": 0.7213231921195984
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.6669015884399414
+            },
+            {
+                "description": "Rug",
+                "score": 0.6066089272499084
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 235.0,
+                    "green": 227.0,
+                    "blue": 207.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81336-5.jpg",
+        "labels": [
+            {
+                "description": "Wallpaper",
+                "score": 0.5381486415863037
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 221.0,
+                    "green": 222.0,
+                    "blue": 214.0
+                },
+                "score": 0.5140916109085083
+            },
+            {
+                "color": {
+                    "red": 201.0,
+                    "green": 204.0,
+                    "blue": 197.0
+                },
+                "score": 0.4859083890914917
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81334-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.968605637550354
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Silver",
+                "score": 0.7465342879295349
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.6383246779441833
+            },
+            {
+                "description": "Motif",
+                "score": 0.5959431529045105
+            },
+            {
+                "description": "Line art",
+                "score": 0.5327761769294739
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 240.0,
+                    "green": 239.0,
+                    "blue": 235.0
+                },
+                "score": 0.9997140765190125
+            },
+            {
+                "color": {
+                    "red": 214.0,
+                    "green": 213.0,
+                    "blue": 209.0
+                },
+                "score": 0.00028592452872544527
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81338-3.jpg",
+        "labels": [
+            {
+                "description": "Wallpaper",
+                "score": 0.504284143447876
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 168.0,
+                    "green": 159.0,
+                    "blue": 143.0
+                },
+                "score": 0.561377763748169
+            },
+            {
+                "color": {
+                    "red": 199.0,
+                    "green": 190.0,
+                    "blue": 173.0
+                },
+                "score": 0.37377020716667175
+            },
+            {
+                "color": {
+                    "red": 168.0,
+                    "green": 160.0,
+                    "blue": 147.0
+                },
+                "score": 0.02381758950650692
+            },
+            {
+                "color": {
+                    "red": 229.0,
+                    "green": 219.0,
+                    "blue": 201.0
+                },
+                "score": 0.01690700463950634
+            },
+            {
+                "color": {
+                    "red": 198.0,
+                    "green": 190.0,
+                    "blue": 177.0
+                },
+                "score": 0.011802270077168941
+            },
+            {
+                "color": {
+                    "red": 143.0,
+                    "green": 134.0,
+                    "blue": 118.0
+                },
+                "score": 0.006703159771859646
+            },
+            {
+                "color": {
+                    "red": 228.0,
+                    "green": 219.0,
+                    "blue": 204.0
+                },
+                "score": 0.005622026976197958
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6095-1.jpg",
+        "labels": [
+            {
+                "description": "Natural material",
+                "score": 0.7118291258811951
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5312380194664001
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 244.0,
+                    "green": 233.0,
+                    "blue": 216.0
+                },
+                "score": 0.5110127925872803
+            },
+            {
+                "color": {
+                    "red": 245.0,
+                    "green": 236.0,
+                    "blue": 221.0
+                },
+                "score": 0.4889872074127197
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81329-3.jpg",
+        "labels": [
+            {
+                "description": "Purple",
+                "score": 0.8153258562088013
+            },
+            {
+                "description": "Wildflower",
+                "score": 0.7471125721931458
+            },
+            {
+                "description": "Pedicel",
+                "score": 0.6873738169670105
+            },
+            {
+                "description": "Geraniums",
+                "score": 0.5038642287254333
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 230.0,
+                    "green": 230.0,
+                    "blue": 224.0
+                },
+                "score": 0.8977263569831848
+            },
+            {
+                "color": {
+                    "red": 200.0,
+                    "green": 204.0,
+                    "blue": 199.0
+                },
+                "score": 0.08563622832298279
+            },
+            {
+                "color": {
+                    "red": 227.0,
+                    "green": 229.0,
+                    "blue": 210.0
+                },
+                "score": 0.007952617481350899
+            },
+            {
+                "color": {
+                    "red": 161.0,
+                    "green": 166.0,
+                    "blue": 164.0
+                },
+                "score": 0.004176996648311615
+            },
+            {
+                "color": {
+                    "red": 204.0,
+                    "green": 207.0,
+                    "blue": 187.0
+                },
+                "score": 0.002832205267623067
+            },
+            {
+                "color": {
+                    "red": 213.0,
+                    "green": 222.0,
+                    "blue": 239.0
+                },
+                "score": 0.0007903279620222747
+            },
+            {
+                "color": {
+                    "red": 173.0,
+                    "green": 189.0,
+                    "blue": 206.0
+                },
+                "score": 0.0005671842372976243
+            },
+            {
+                "color": {
+                    "red": 227.0,
+                    "green": 240.0,
+                    "blue": 212.0
+                },
+                "score": 0.00021765557175967842
+            },
+            {
+                "color": {
+                    "red": 169.0,
+                    "green": 174.0,
+                    "blue": 152.0
+                },
+                "score": 0.00010043553629657254
+            },
+            {
+                "color": {
+                    "red": 116.0,
+                    "green": 126.0,
+                    "blue": 127.0
+                },
+                "score": 1.2638117982688435e-11
+            }
+        ]
+    },
+    {
+        "file_name": "GN BLOOM 82098-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9662672281265259
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 240.0,
+                    "green": 234.0,
+                    "blue": 222.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN BLOOM 82090-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9734945297241211
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 236.0,
+                    "green": 235.0,
+                    "blue": 231.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8619-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9765303134918213
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 232.0,
+                    "green": 236.0,
+                    "blue": 237.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN BLOOM 82095-2.jpg",
+        "labels": [
+            {
+                "description": "Pink",
+                "score": 0.9144624471664429
+            },
+            {
+                "description": "Purple",
+                "score": 0.856332540512085
+            },
+            {
+                "description": "Floral design",
+                "score": 0.5756131410598755
+            },
+            {
+                "description": "Geraniums",
+                "score": 0.5038679242134094
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 240.0,
+                    "green": 241.0,
+                    "blue": 233.0
+                },
+                "score": 0.8042696714401245
+            },
+            {
+                "color": {
+                    "red": 225.0,
+                    "green": 241.0,
+                    "blue": 218.0
+                },
+                "score": 0.0018667655531316996
+            },
+            {
+                "color": {
+                    "red": 200.0,
+                    "green": 200.0,
+                    "blue": 194.0
+                },
+                "score": 0.17686167359352112
+            },
+            {
+                "color": {
+                    "red": 167.0,
+                    "green": 166.0,
+                    "blue": 160.0
+                },
+                "score": 0.013398220762610435
+            },
+            {
+                "color": {
+                    "red": 221.0,
+                    "green": 201.0,
+                    "blue": 217.0
+                },
+                "score": 0.001461733947508037
+            },
+            {
+                "color": {
+                    "red": 237.0,
+                    "green": 218.0,
+                    "blue": 233.0
+                },
+                "score": 0.0009349522297270596
+            },
+            {
+                "color": {
+                    "red": 191.0,
+                    "green": 209.0,
+                    "blue": 183.0
+                },
+                "score": 0.0005900431424379349
+            },
+            {
+                "color": {
+                    "red": 187.0,
+                    "green": 199.0,
+                    "blue": 179.0
+                },
+                "score": 0.0002961122081615031
+            },
+            {
+                "color": {
+                    "red": 242.0,
+                    "green": 255.0,
+                    "blue": 234.0
+                },
+                "score": 0.000180339120561257
+            },
+            {
+                "color": {
+                    "red": 231.0,
+                    "green": 246.0,
+                    "blue": 225.0
+                },
+                "score": 0.000140456497319974
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8625-1.jpg",
+        "labels": [
+            {
+                "description": "Brown",
+                "score": 0.9148883819580078
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Concrete",
+                "score": 0.7449579238891602
+            },
+            {
+                "description": "Natural material",
+                "score": 0.6846550703048706
+            },
+            {
+                "description": "Plaster",
+                "score": 0.6251498460769653
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.6044402718544006
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 191.0,
+                    "green": 187.0,
+                    "blue": 177.0
+                },
+                "score": 0.9895848035812378
+            },
+            {
+                "color": {
+                    "red": 177.0,
+                    "green": 173.0,
+                    "blue": 162.0
+                },
+                "score": 0.010415196418762207
+            }
+        ]
+    },
+    {
+        "file_name": "GN BLOOM 82096-2.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9687848091125488
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 243.0,
+                    "green": 237.0,
+                    "blue": 225.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81334-4.jpg",
+        "labels": [
+            {
+                "description": "Brown",
+                "score": 0.9144076704978943
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.7045984864234924
+            },
+            {
+                "description": "Motif",
+                "score": 0.6599470973014832
+            },
+            {
+                "description": "Pattern",
+                "score": 0.5583568215370178
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 123.0,
+                    "green": 123.0,
+                    "blue": 101.0
+                },
+                "score": 0.33772170543670654
+            },
+            {
+                "color": {
+                    "red": 119.0,
+                    "green": 123.0,
+                    "blue": 111.0
+                },
+                "score": 0.26651209592819214
+            },
+            {
+                "color": {
+                    "red": 159.0,
+                    "green": 155.0,
+                    "blue": 125.0
+                },
+                "score": 0.24390852451324463
+            },
+            {
+                "color": {
+                    "red": 143.0,
+                    "green": 146.0,
+                    "blue": 133.0
+                },
+                "score": 0.047906357795000076
+            },
+            {
+                "color": {
+                    "red": 189.0,
+                    "green": 182.0,
+                    "blue": 145.0
+                },
+                "score": 0.03031500056385994
+            },
+            {
+                "color": {
+                    "red": 173.0,
+                    "green": 163.0,
+                    "blue": 109.0
+                },
+                "score": 0.02077692747116089
+            },
+            {
+                "color": {
+                    "red": 96.0,
+                    "green": 96.0,
+                    "blue": 75.0
+                },
+                "score": 0.018766270950436592
+            },
+            {
+                "color": {
+                    "red": 92.0,
+                    "green": 96.0,
+                    "blue": 84.0
+                },
+                "score": 0.016461072489619255
+            },
+            {
+                "color": {
+                    "red": 144.0,
+                    "green": 152.0,
+                    "blue": 116.0
+                },
+                "score": 0.0056297630071640015
+            },
+            {
+                "color": {
+                    "red": 117.0,
+                    "green": 127.0,
+                    "blue": 99.0
+                },
+                "score": 0.00558056915178895
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8605-6.jpg",
+        "labels": [
+            {
+                "description": "Brown",
+                "score": 0.9214935302734375
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.6765545010566711
+            },
+            {
+                "description": "Linen",
+                "score": 0.5507796406745911
+            },
+            {
+                "description": "Linens",
+                "score": 0.5002943873405457
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 215.0,
+                    "green": 202.0,
+                    "blue": 183.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8622-3.jpg",
+        "labels": [
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Motif",
+                "score": 0.6413153409957886
+            },
+            {
+                "description": "Triangle",
+                "score": 0.6118469834327698
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5794212222099304
+            },
+            {
+                "description": "Pattern",
+                "score": 0.5514953136444092
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 205.0,
+                    "green": 205.0,
+                    "blue": 202.0
+                },
+                "score": 0.8667678833007812
+            },
+            {
+                "color": {
+                    "red": 220.0,
+                    "green": 220.0,
+                    "blue": 216.0
+                },
+                "score": 0.13172662258148193
+            },
+            {
+                "color": {
+                    "red": 173.0,
+                    "green": 173.0,
+                    "blue": 171.0
+                },
+                "score": 0.0015054921386763453
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8602-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9734730124473572
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 244.0,
+                    "green": 244.0,
+                    "blue": 242.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8613-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9730948805809021
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 218.0,
+                    "green": 219.0,
+                    "blue": 216.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8624-3.jpg",
+        "labels": [
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Silver",
+                "score": 0.7057397961616516
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 155.0,
+                    "green": 155.0,
+                    "blue": 153.0
+                },
+                "score": 0.9949336051940918
+            },
+            {
+                "color": {
+                    "red": 135.0,
+                    "green": 135.0,
+                    "blue": 133.0
+                },
+                "score": 0.004054985009133816
+            },
+            {
+                "color": {
+                    "red": 177.0,
+                    "green": 177.0,
+                    "blue": 175.0
+                },
+                "score": 0.001011437620036304
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81332-3.jpg",
+        "labels": [],
+        "colors": [
+            {
+                "color": {
+                    "red": 207.0,
+                    "green": 203.0,
+                    "blue": 193.0
+                },
+                "score": 0.69827800989151
+            },
+            {
+                "color": {
+                    "red": 233.0,
+                    "green": 229.0,
+                    "blue": 220.0
+                },
+                "score": 0.3017219603061676
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81338-5.jpg",
+        "labels": [
+            {
+                "description": "Natural material",
+                "score": 0.6940128207206726
+            },
+            {
+                "description": "Palm trees",
+                "score": 0.6432229280471802
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5879833102226257
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 109.0,
+                    "green": 124.0,
+                    "blue": 81.0
+                },
+                "score": 0.32813334465026855
+            },
+            {
+                "color": {
+                    "red": 75.0,
+                    "green": 92.0,
+                    "blue": 52.0
+                },
+                "score": 0.21381661295890808
+            },
+            {
+                "color": {
+                    "red": 140.0,
+                    "green": 154.0,
+                    "blue": 109.0
+                },
+                "score": 0.19762711226940155
+            },
+            {
+                "color": {
+                    "red": 115.0,
+                    "green": 124.0,
+                    "blue": 71.0
+                },
+                "score": 0.08017551898956299
+            },
+            {
+                "color": {
+                    "red": 81.0,
+                    "green": 90.0,
+                    "blue": 40.0
+                },
+                "score": 0.0461253747344017
+            },
+            {
+                "color": {
+                    "red": 48.0,
+                    "green": 64.0,
+                    "blue": 25.0
+                },
+                "score": 0.043770354241132736
+            },
+            {
+                "color": {
+                    "red": 142.0,
+                    "green": 152.0,
+                    "blue": 99.0
+                },
+                "score": 0.03820115327835083
+            },
+            {
+                "color": {
+                    "red": 119.0,
+                    "green": 116.0,
+                    "blue": 65.0
+                },
+                "score": 0.0173718873411417
+            },
+            {
+                "color": {
+                    "red": 91.0,
+                    "green": 89.0,
+                    "blue": 39.0
+                },
+                "score": 0.009265582077205181
+            },
+            {
+                "color": {
+                    "red": 53.0,
+                    "green": 69.0,
+                    "blue": 19.0
+                },
+                "score": 0.007628974970430136
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6090-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9677073359489441
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 229.0,
+                    "green": 224.0,
+                    "blue": 218.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81338-4.jpg",
+        "labels": [
+            {
+                "description": "Brown",
+                "score": 0.9174330830574036
+            },
+            {
+                "description": "Palm trees",
+                "score": 0.555858314037323
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 176.0,
+                    "green": 152.0,
+                    "blue": 136.0
+                },
+                "score": 0.7951892614364624
+            },
+            {
+                "color": {
+                    "red": 201.0,
+                    "green": 177.0,
+                    "blue": 161.0
+                },
+                "score": 0.11982213705778122
+            },
+            {
+                "color": {
+                    "red": 153.0,
+                    "green": 128.0,
+                    "blue": 112.0
+                },
+                "score": 0.04110394045710564
+            },
+            {
+                "color": {
+                    "red": 180.0,
+                    "green": 157.0,
+                    "blue": 148.0
+                },
+                "score": 0.03425952419638634
+            },
+            {
+                "color": {
+                    "red": 201.0,
+                    "green": 178.0,
+                    "blue": 168.0
+                },
+                "score": 0.008952734060585499
+            },
+            {
+                "color": {
+                    "red": 168.0,
+                    "green": 139.0,
+                    "blue": 128.0
+                },
+                "score": 0.00040084804641082883
+            },
+            {
+                "color": {
+                    "red": 154.0,
+                    "green": 129.0,
+                    "blue": 122.0
+                },
+                "score": 0.00014960169210098684
+            },
+            {
+                "color": {
+                    "red": 205.0,
+                    "green": 175.0,
+                    "blue": 164.0
+                },
+                "score": 0.00010940734500763938
+            },
+            {
+                "color": {
+                    "red": 156.0,
+                    "green": 129.0,
+                    "blue": 118.0
+                },
+                "score": 7.684492629778106e-06
+            },
+            {
+                "color": {
+                    "red": 160.0,
+                    "green": 135.0,
+                    "blue": 130.0
+                },
+                "score": 3.646005097834859e-06
+            }
+        ]
+    },
+    {
+        "file_name": "GN BLOOM 82090-5.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9673535227775574
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 229.0,
+                    "green": 225.0,
+                    "blue": 216.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8610-4.jpg",
+        "labels": [
+            {
+                "description": "Pattern",
+                "score": 0.5069121718406677
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 93.0,
+                    "green": 111.0,
+                    "blue": 123.0
+                },
+                "score": 0.723369300365448
+            },
+            {
+                "color": {
+                    "red": 82.0,
+                    "green": 100.0,
+                    "blue": 112.0
+                },
+                "score": 0.2766306698322296
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81337-2.jpg",
+        "labels": [
+            {
+                "description": "Floor",
+                "score": 0.9025845527648926
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Silver",
+                "score": 0.6935034990310669
+            },
+            {
+                "description": "Plaster",
+                "score": 0.5918099284172058
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 208.0,
+                    "green": 207.0,
+                    "blue": 203.0
+                },
+                "score": 0.7846173644065857
+            },
+            {
+                "color": {
+                    "red": 221.0,
+                    "green": 220.0,
+                    "blue": 216.0
+                },
+                "score": 0.2153826206922531
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8618-3.jpg",
+        "labels": [
+            {
+                "description": "Mesh",
+                "score": 0.8688474297523499
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 163.0,
+                    "green": 164.0,
+                    "blue": 166.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81329-4.jpg",
+        "labels": [
+            {
+                "description": "Flower",
+                "score": 0.9712828397750854
+            },
+            {
+                "description": "Yellow",
+                "score": 0.9709224104881287
+            },
+            {
+                "description": "Pink",
+                "score": 0.9196181893348694
+            },
+            {
+                "description": "Petal",
+                "score": 0.8879796862602234
+            },
+            {
+                "description": "Orange",
+                "score": 0.8806341886520386
+            },
+            {
+                "description": "Pedicel",
+                "score": 0.7427975535392761
+            },
+            {
+                "description": "Wildflower",
+                "score": 0.7415496110916138
+            },
+            {
+                "description": "Creative arts",
+                "score": 0.6883745789527893
+            },
+            {
+                "description": "Floral design",
+                "score": 0.6671101450920105
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.6564669609069824
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 236.0,
+                    "green": 218.0,
+                    "blue": 190.0
+                },
+                "score": 0.74064701795578
+            },
+            {
+                "color": {
+                    "red": 226.0,
+                    "green": 203.0,
+                    "blue": 174.0
+                },
+                "score": 0.23522862792015076
+            },
+            {
+                "color": {
+                    "red": 230.0,
+                    "green": 189.0,
+                    "blue": 159.0
+                },
+                "score": 0.007834400050342083
+            },
+            {
+                "color": {
+                    "red": 227.0,
+                    "green": 195.0,
+                    "blue": 149.0
+                },
+                "score": 0.004240374080836773
+            },
+            {
+                "color": {
+                    "red": 189.0,
+                    "green": 162.0,
+                    "blue": 129.0
+                },
+                "score": 0.003952038008719683
+            },
+            {
+                "color": {
+                    "red": 250.0,
+                    "green": 211.0,
+                    "blue": 188.0
+                },
+                "score": 0.0028102979995310307
+            },
+            {
+                "color": {
+                    "red": 195.0,
+                    "green": 157.0,
+                    "blue": 129.0
+                },
+                "score": 0.0018579523311927915
+            },
+            {
+                "color": {
+                    "red": 246.0,
+                    "green": 215.0,
+                    "blue": 170.0
+                },
+                "score": 0.001159649807959795
+            },
+            {
+                "color": {
+                    "red": 231.0,
+                    "green": 187.0,
+                    "blue": 144.0
+                },
+                "score": 0.0010245726443827152
+            },
+            {
+                "color": {
+                    "red": 201.0,
+                    "green": 160.0,
+                    "blue": 120.0
+                },
+                "score": 0.0006600329070352018
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6092-6.jpg",
+        "labels": [
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 120.0,
+                    "green": 123.0,
+                    "blue": 128.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8624-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9670116305351257
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Monochrome",
+                "score": 0.7662652134895325
+            },
+            {
+                "description": "Silver",
+                "score": 0.717329740524292
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 202.0,
+                    "green": 202.0,
+                    "blue": 202.0
+                },
+                "score": 0.9462745189666748
+            },
+            {
+                "color": {
+                    "red": 217.0,
+                    "green": 217.0,
+                    "blue": 217.0
+                },
+                "score": 0.05356861278414726
+            },
+            {
+                "color": {
+                    "red": 171.0,
+                    "green": 171.0,
+                    "blue": 171.0
+                },
+                "score": 0.00015686270489823073
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8604-7.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9684762954711914
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Linen",
+                "score": 0.6607445478439331
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5538454055786133
+            },
+            {
+                "description": "Linens",
+                "score": 0.5027369260787964
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 218.0,
+                    "green": 211.0,
+                    "blue": 205.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8610-3.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9727826118469238
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Silver",
+                "score": 0.7105874419212341
+            },
+            {
+                "description": "Linen",
+                "score": 0.5404442548751831
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 180.0,
+                    "green": 184.0,
+                    "blue": 183.0
+                },
+                "score": 0.999112606048584
+            },
+            {
+                "color": {
+                    "red": 171.0,
+                    "green": 175.0,
+                    "blue": 174.0
+                },
+                "score": 0.0008873658953234553
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8614-7.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.965499222278595
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Silver",
+                "score": 0.7008426785469055
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 214.0,
+                    "green": 209.0,
+                    "blue": 206.0
+                },
+                "score": 0.9998254179954529
+            },
+            {
+                "color": {
+                    "red": 219.0,
+                    "green": 214.0,
+                    "blue": 211.0
+                },
+                "score": 0.00017457005742471665
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81335-6.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9684054851531982
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5436570644378662
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 226.0,
+                    "green": 228.0,
+                    "blue": 221.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8623-1.jpg",
+        "labels": [
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5795497298240662
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 235.0,
+                    "green": 236.0,
+                    "blue": 237.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6093-2.jpg",
+        "labels": [
+            {
+                "description": "Brown",
+                "score": 0.9276469349861145
+            },
+            {
+                "description": "Orange",
+                "score": 0.8842533230781555
+            },
+            {
+                "description": "Rug",
+                "score": 0.8223550915718079
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5453210473060608
+            },
+            {
+                "description": "Carpet",
+                "score": 0.5339958071708679
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 206.0,
+                    "green": 181.0,
+                    "blue": 143.0
+                },
+                "score": 0.9558891654014587
+            },
+            {
+                "color": {
+                    "red": 195.0,
+                    "green": 169.0,
+                    "blue": 132.0
+                },
+                "score": 0.044110819697380066
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6089-3.jpg",
+        "labels": [
+            {
+                "description": "Yellow",
+                "score": 0.961355984210968
+            },
+            {
+                "description": "Brown",
+                "score": 0.9150174856185913
+            },
+            {
+                "description": "Rug",
+                "score": 0.6155413389205933
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.576367199420929
+            },
+            {
+                "description": "Motif",
+                "score": 0.5582972168922424
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 176.0,
+                    "green": 153.0,
+                    "blue": 100.0
+                },
+                "score": 0.31752732396125793
+            },
+            {
+                "color": {
+                    "red": 166.0,
+                    "green": 152.0,
+                    "blue": 115.0
+                },
+                "score": 0.20908872783184052
+            },
+            {
+                "color": {
+                    "red": 209.0,
+                    "green": 185.0,
+                    "blue": 130.0
+                },
+                "score": 0.1372940093278885
+            },
+            {
+                "color": {
+                    "red": 144.0,
+                    "green": 124.0,
+                    "blue": 72.0
+                },
+                "score": 0.1343703716993332
+            },
+            {
+                "color": {
+                    "red": 131.0,
+                    "green": 124.0,
+                    "blue": 89.0
+                },
+                "score": 0.12533454596996307
+            },
+            {
+                "color": {
+                    "red": 203.0,
+                    "green": 187.0,
+                    "blue": 148.0
+                },
+                "score": 0.04452045261859894
+            },
+            {
+                "color": {
+                    "red": 112.0,
+                    "green": 122.0,
+                    "blue": 89.0
+                },
+                "score": 0.00892358087003231
+            },
+            {
+                "color": {
+                    "red": 193.0,
+                    "green": 148.0,
+                    "blue": 103.0
+                },
+                "score": 0.006510646548122168
+            },
+            {
+                "color": {
+                    "red": 113.0,
+                    "green": 98.0,
+                    "blue": 47.0
+                },
+                "score": 0.006075923331081867
+            },
+            {
+                "color": {
+                    "red": 93.0,
+                    "green": 103.0,
+                    "blue": 65.0
+                },
+                "score": 0.002221300033852458
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6086-2.jpg",
+        "labels": [
+            {
+                "description": "Petal",
+                "score": 0.9257790446281433
+            },
+            {
+                "description": "Motif",
+                "score": 0.5313884615898132
+            },
+            {
+                "description": "Embellishment",
+                "score": 0.5159925818443298
+            },
+            {
+                "description": "Floral design",
+                "score": 0.5075217485427856
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 230.0,
+                    "green": 226.0,
+                    "blue": 219.0
+                },
+                "score": 0.9617480039596558
+            },
+            {
+                "color": {
+                    "red": 215.0,
+                    "green": 209.0,
+                    "blue": 199.0
+                },
+                "score": 0.023952387273311615
+            },
+            {
+                "color": {
+                    "red": 229.0,
+                    "green": 223.0,
+                    "blue": 205.0
+                },
+                "score": 0.00972707662731409
+            },
+            {
+                "color": {
+                    "red": 215.0,
+                    "green": 208.0,
+                    "blue": 191.0
+                },
+                "score": 0.004572557285428047
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6087-4.jpg",
+        "labels": [
+            {
+                "description": "Brown",
+                "score": 0.920016348361969
+            },
+            {
+                "description": "Rug",
+                "score": 0.5125075578689575
+            }
+        ],
+        "colors": []
+    },
+    {
+        "file_name": "JOINUS 8617-3.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9652735590934753
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.569420576095581
+            },
+            {
+                "description": "Plaster",
+                "score": 0.5308825969696045
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 218.0,
+                    "green": 211.0,
+                    "blue": 193.0
+                },
+                "score": 0.9956265091896057
+            },
+            {
+                "color": {
+                    "red": 221.0,
+                    "green": 214.0,
+                    "blue": 196.0
+                },
+                "score": 0.0043734898790717125
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6089-4.jpg",
+        "labels": [
+            {
+                "description": "Flower",
+                "score": 0.9696394801139832
+            },
+            {
+                "description": "Pink",
+                "score": 0.9003706574440002
+            },
+            {
+                "description": "Purple",
+                "score": 0.8491020798683167
+            },
+            {
+                "description": "Creative arts",
+                "score": 0.7440235614776611
+            },
+            {
+                "description": "Wildflower",
+                "score": 0.7136865258216858
+            },
+            {
+                "description": "Rug",
+                "score": 0.6990442872047424
+            },
+            {
+                "description": "Floral design",
+                "score": 0.6711627244949341
+            },
+            {
+                "description": "Pedicel",
+                "score": 0.6059277057647705
+            },
+            {
+                "description": "Flower Arranging",
+                "score": 0.5327056646347046
+            },
+            {
+                "description": "Motif",
+                "score": 0.5267567038536072
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 170.0,
+                    "green": 151.0,
+                    "blue": 128.0
+                },
+                "score": 0.30498409271240234
+            },
+            {
+                "color": {
+                    "red": 160.0,
+                    "green": 150.0,
+                    "blue": 148.0
+                },
+                "score": 0.22593790292739868
+            },
+            {
+                "color": {
+                    "red": 134.0,
+                    "green": 125.0,
+                    "blue": 123.0
+                },
+                "score": 0.15957818925380707
+            },
+            {
+                "color": {
+                    "red": 204.0,
+                    "green": 184.0,
+                    "blue": 159.0
+                },
+                "score": 0.08849102258682251
+            },
+            {
+                "color": {
+                    "red": 145.0,
+                    "green": 126.0,
+                    "blue": 104.0
+                },
+                "score": 0.06721662729978561
+            },
+            {
+                "color": {
+                    "red": 190.0,
+                    "green": 149.0,
+                    "blue": 133.0
+                },
+                "score": 0.04223206266760826
+            },
+            {
+                "color": {
+                    "red": 172.0,
+                    "green": 144.0,
+                    "blue": 142.0
+                },
+                "score": 0.036616094410419464
+            },
+            {
+                "color": {
+                    "red": 203.0,
+                    "green": 187.0,
+                    "blue": 182.0
+                },
+                "score": 0.03297519311308861
+            },
+            {
+                "color": {
+                    "red": 146.0,
+                    "green": 125.0,
+                    "blue": 136.0
+                },
+                "score": 0.015096982009708881
+            },
+            {
+                "color": {
+                    "red": 119.0,
+                    "green": 118.0,
+                    "blue": 136.0
+                },
+                "score": 0.006729153450578451
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6098-3.jpg",
+        "labels": [],
+        "colors": [
+            {
+                "color": {
+                    "red": 213.0,
+                    "green": 188.0,
+                    "blue": 156.0
+                },
+                "score": 0.557266354560852
+            },
+            {
+                "color": {
+                    "red": 71.0,
+                    "green": 71.0,
+                    "blue": 70.0
+                },
+                "score": 0.27171066403388977
+            },
+            {
+                "color": {
+                    "red": 65.0,
+                    "green": 64.0,
+                    "blue": 63.0
+                },
+                "score": 0.10999269783496857
+            },
+            {
+                "color": {
+                    "red": 166.0,
+                    "green": 153.0,
+                    "blue": 134.0
+                },
+                "score": 0.024509409442543983
+            },
+            {
+                "color": {
+                    "red": 121.0,
+                    "green": 113.0,
+                    "blue": 97.0
+                },
+                "score": 0.01841360330581665
+            },
+            {
+                "color": {
+                    "red": 131.0,
+                    "green": 118.0,
+                    "blue": 107.0
+                },
+                "score": 0.011676029302179813
+            },
+            {
+                "color": {
+                    "red": 158.0,
+                    "green": 142.0,
+                    "blue": 132.0
+                },
+                "score": 0.006431261543184519
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6100-1.jpg",
+        "labels": [
+            {
+                "description": "Motif",
+                "score": 0.7687304615974426
+            },
+            {
+                "description": "Creative arts",
+                "score": 0.7378678321838379
+            },
+            {
+                "description": "Ornament",
+                "score": 0.6810439229011536
+            },
+            {
+                "description": "Design",
+                "score": 0.6680257320404053
+            },
+            {
+                "description": "Floral design",
+                "score": 0.6515660285949707
+            },
+            {
+                "description": "Graphics",
+                "score": 0.622573733329773
+            },
+            {
+                "description": "Graphic design",
+                "score": 0.5617050528526306
+            },
+            {
+                "description": "Chandelier",
+                "score": 0.5403615832328796
+            },
+            {
+                "description": "Fractal art",
+                "score": 0.5069200992584229
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 110.0,
+                    "green": 82.0,
+                    "blue": 79.0
+                },
+                "score": 0.13998109102249146
+            },
+            {
+                "color": {
+                    "red": 166.0,
+                    "green": 151.0,
+                    "blue": 145.0
+                },
+                "score": 0.12794257700443268
+            },
+            {
+                "color": {
+                    "red": 134.0,
+                    "green": 116.0,
+                    "blue": 109.0
+                },
+                "score": 0.11918506771326065
+            },
+            {
+                "color": {
+                    "red": 139.0,
+                    "green": 109.0,
+                    "blue": 107.0
+                },
+                "score": 0.09984979778528214
+            },
+            {
+                "color": {
+                    "red": 104.0,
+                    "green": 85.0,
+                    "blue": 79.0
+                },
+                "score": 0.0965811088681221
+            },
+            {
+                "color": {
+                    "red": 171.0,
+                    "green": 153.0,
+                    "blue": 136.0
+                },
+                "score": 0.09301099926233292
+            },
+            {
+                "color": {
+                    "red": 202.0,
+                    "green": 187.0,
+                    "blue": 181.0
+                },
+                "score": 0.05966361612081528
+            },
+            {
+                "color": {
+                    "red": 133.0,
+                    "green": 115.0,
+                    "blue": 99.0
+                },
+                "score": 0.051933903247117996
+            },
+            {
+                "color": {
+                    "red": 178.0,
+                    "green": 146.0,
+                    "blue": 145.0
+                },
+                "score": 0.045911893248558044
+            },
+            {
+                "color": {
+                    "red": 205.0,
+                    "green": 186.0,
+                    "blue": 167.0
+                },
+                "score": 0.044922325760126114
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6095-2.jpg",
+        "labels": [
+            {
+                "description": "Blue",
+                "score": 0.9889506697654724
+            },
+            {
+                "description": "White",
+                "score": 0.9650703072547913
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Natural material",
+                "score": 0.685376763343811
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5158843994140625
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 212.0,
+                    "green": 221.0,
+                    "blue": 228.0
+                },
+                "score": 0.9865684509277344
+            },
+            {
+                "color": {
+                    "red": 205.0,
+                    "green": 215.0,
+                    "blue": 222.0
+                },
+                "score": 0.013431566767394543
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8626-2.jpg",
+        "labels": [
+            {
+                "description": "Wood",
+                "score": 0.9713596701622009
+            },
+            {
+                "description": "Flooring",
+                "score": 0.929256796836853
+            },
+            {
+                "description": "Wood flooring",
+                "score": 0.925835371017456
+            },
+            {
+                "description": "Brown",
+                "score": 0.9215390086174011
+            },
+            {
+                "description": "Plank",
+                "score": 0.8516858220100403
+            },
+            {
+                "description": "Hardwood",
+                "score": 0.8376017808914185
+            },
+            {
+                "description": "Wood stain",
+                "score": 0.7677496671676636
+            },
+            {
+                "description": "Natural material",
+                "score": 0.7671915888786316
+            },
+            {
+                "description": "Plywood",
+                "score": 0.7217159271240234
+            },
+            {
+                "description": "Laminate flooring",
+                "score": 0.7079118490219116
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 181.0,
+                    "green": 156.0,
+                    "blue": 121.0
+                },
+                "score": 0.9685359597206116
+            },
+            {
+                "color": {
+                    "red": 199.0,
+                    "green": 174.0,
+                    "blue": 140.0
+                },
+                "score": 0.021070903167128563
+            },
+            {
+                "color": {
+                    "red": 155.0,
+                    "green": 128.0,
+                    "blue": 94.0
+                },
+                "score": 0.010393155738711357
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8627-2.jpg",
+        "labels": [
+            {
+                "description": "Textile",
+                "score": 0.9465670585632324
+            },
+            {
+                "description": "Brown",
+                "score": 0.9221685528755188
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.7234347462654114
+            },
+            {
+                "description": "Linens",
+                "score": 0.6509295105934143
+            },
+            {
+                "description": "Linen",
+                "score": 0.5875105857849121
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 226.0,
+                    "green": 219.0,
+                    "blue": 201.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS WH505-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9740405678749084
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 244.0,
+                    "green": 244.0,
+                    "blue": 244.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN BLOOM 82101-4.jpg",
+        "labels": [
+            {
+                "description": "Brown",
+                "score": 0.9193944334983826
+            },
+            {
+                "description": "Rug",
+                "score": 0.8711237907409668
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 234.0,
+                    "green": 204.0,
+                    "blue": 152.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81330-1.jpg",
+        "labels": [
+            {
+                "description": "Wood flooring",
+                "score": 0.833952009677887
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Hardwood",
+                "score": 0.7178959250450134
+            },
+            {
+                "description": "Natural material",
+                "score": 0.7008687853813171
+            },
+            {
+                "description": "Plank",
+                "score": 0.6989336013793945
+            },
+            {
+                "description": "Wood stain",
+                "score": 0.6330296397209167
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5855744481086731
+            },
+            {
+                "description": "Laminate flooring",
+                "score": 0.5688769221305847
+            },
+            {
+                "description": "Plywood",
+                "score": 0.5144020318984985
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 242.0,
+                    "green": 237.0,
+                    "blue": 230.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81330-5.jpg",
+        "labels": [
+            {
+                "description": "Wood flooring",
+                "score": 0.6712131500244141
+            },
+            {
+                "description": "Hardwood",
+                "score": 0.6544883847236633
+            },
+            {
+                "description": "Plank",
+                "score": 0.6107951402664185
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 93.0,
+                    "green": 92.0,
+                    "blue": 88.0
+                },
+                "score": 0.5552571415901184
+            },
+            {
+                "color": {
+                    "red": 112.0,
+                    "green": 111.0,
+                    "blue": 107.0
+                },
+                "score": 0.44255027174949646
+            },
+            {
+                "color": {
+                    "red": 142.0,
+                    "green": 141.0,
+                    "blue": 137.0
+                },
+                "score": 0.0016759861027821898
+            },
+            {
+                "color": {
+                    "red": 66.0,
+                    "green": 65.0,
+                    "blue": 61.0
+                },
+                "score": 0.0005165838520042598
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81328-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9762833118438721
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 252.0,
+                    "green": 252.0,
+                    "blue": 250.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN BLOOM 82091-2.jpg",
+        "labels": [
+            {
+                "description": "Pink",
+                "score": 0.9074215292930603
+            },
+            {
+                "description": "Purple",
+                "score": 0.8127142786979675
+            },
+            {
+                "description": "Lepidoptera",
+                "score": 0.6319889426231384
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5720285177230835
+            },
+            {
+                "description": "Wildflower",
+                "score": 0.5140405297279358
+            },
+            {
+                "description": "Wrapping Paper",
+                "score": 0.512601912021637
+            },
+            {
+                "description": "Pollinator",
+                "score": 0.5010644197463989
+            },
+            {
+                "description": "Butterfly",
+                "score": 0.5010043382644653
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 239.0,
+                    "green": 231.0,
+                    "blue": 225.0
+                },
+                "score": 0.8408600687980652
+            },
+            {
+                "color": {
+                    "red": 207.0,
+                    "green": 199.0,
+                    "blue": 192.0
+                },
+                "score": 0.1307542622089386
+            },
+            {
+                "color": {
+                    "red": 207.0,
+                    "green": 201.0,
+                    "blue": 184.0
+                },
+                "score": 0.010440276935696602
+            },
+            {
+                "color": {
+                    "red": 169.0,
+                    "green": 159.0,
+                    "blue": 153.0
+                },
+                "score": 0.009917185641825199
+            },
+            {
+                "color": {
+                    "red": 229.0,
+                    "green": 222.0,
+                    "blue": 206.0
+                },
+                "score": 0.006938498001545668
+            },
+            {
+                "color": {
+                    "red": 177.0,
+                    "green": 172.0,
+                    "blue": 153.0
+                },
+                "score": 0.0010896848980337381
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6091-3.jpg",
+        "labels": [
+            {
+                "description": "Bamboo",
+                "score": 0.9345585107803345
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5203832387924194
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 172.0,
+                    "green": 154.0,
+                    "blue": 127.0
+                },
+                "score": 0.500662088394165
+            },
+            {
+                "color": {
+                    "red": 137.0,
+                    "green": 119.0,
+                    "blue": 93.0
+                },
+                "score": 0.22639016807079315
+            },
+            {
+                "color": {
+                    "red": 202.0,
+                    "green": 185.0,
+                    "blue": 157.0
+                },
+                "score": 0.2249021828174591
+            },
+            {
+                "color": {
+                    "red": 106.0,
+                    "green": 89.0,
+                    "blue": 63.0
+                },
+                "score": 0.04660886526107788
+            },
+            {
+                "color": {
+                    "red": 234.0,
+                    "green": 216.0,
+                    "blue": 190.0
+                },
+                "score": 0.0011139234993606806
+            },
+            {
+                "color": {
+                    "red": 81.0,
+                    "green": 64.0,
+                    "blue": 38.0
+                },
+                "score": 0.000322765699820593
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81339-4.jpg",
+        "labels": [],
+        "colors": [
+            {
+                "color": {
+                    "red": 197.0,
+                    "green": 207.0,
+                    "blue": 197.0
+                },
+                "score": 0.7194293141365051
+            },
+            {
+                "color": {
+                    "red": 211.0,
+                    "green": 220.0,
+                    "blue": 210.0
+                },
+                "score": 0.2805706560611725
+            }
+        ]
+    },
+    {
+        "file_name": "GN BLOOM 82092-3.jpg",
+        "labels": [
+            {
+                "description": "Yellow",
+                "score": 0.955746591091156
+            },
+            {
+                "description": "Pedicel",
+                "score": 0.6662030220031738
+            },
+            {
+                "description": "Floral design",
+                "score": 0.6059276461601257
+            },
+            {
+                "description": "Wildflower",
+                "score": 0.5678935050964355
+            },
+            {
+                "description": "Rose family",
+                "score": 0.5590407848358154
+            },
+            {
+                "description": "Wrapping Paper",
+                "score": 0.5223656892776489
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.514502763748169
+            },
+            {
+                "description": "Cinquefoils",
+                "score": 0.5060931444168091
+            },
+            {
+                "description": "Tanacetum",
+                "score": 0.5048148036003113
+            },
+            {
+                "description": "Geraniums",
+                "score": 0.5038085579872131
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 235.0,
+                    "green": 232.0,
+                    "blue": 221.0
+                },
+                "score": 0.6894084215164185
+            },
+            {
+                "color": {
+                    "red": 234.0,
+                    "green": 230.0,
+                    "blue": 209.0
+                },
+                "score": 0.17373061180114746
+            },
+            {
+                "color": {
+                    "red": 206.0,
+                    "green": 204.0,
+                    "blue": 192.0
+                },
+                "score": 0.07813037931919098
+            },
+            {
+                "color": {
+                    "red": 208.0,
+                    "green": 203.0,
+                    "blue": 180.0
+                },
+                "score": 0.05414540693163872
+            },
+            {
+                "color": {
+                    "red": 170.0,
+                    "green": 169.0,
+                    "blue": 157.0
+                },
+                "score": 0.003439561231061816
+            },
+            {
+                "color": {
+                    "red": 174.0,
+                    "green": 171.0,
+                    "blue": 154.0
+                },
+                "score": 0.0011456296779215336
+            }
+        ]
+    },
+    {
+        "file_name": "GN BLOOM 82090-6.jpg",
+        "labels": [
+            {
+                "description": "Blue",
+                "score": 0.988227903842926
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 205.0,
+                    "green": 225.0,
+                    "blue": 224.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81333-3.jpg",
+        "labels": [
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Concrete",
+                "score": 0.7517044544219971
+            },
+            {
+                "description": "Silver",
+                "score": 0.7180448174476624
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5505790114402771
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 186.0,
+                    "green": 185.0,
+                    "blue": 181.0
+                },
+                "score": 0.9129103422164917
+            },
+            {
+                "color": {
+                    "red": 172.0,
+                    "green": 171.0,
+                    "blue": 167.0
+                },
+                "score": 0.08708968758583069
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81337-1.jpg",
+        "labels": [
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Plaster",
+                "score": 0.5741947293281555
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5643846392631531
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 241.0,
+                    "green": 240.0,
+                    "blue": 236.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8620-3.jpg",
+        "labels": [
+            {
+                "description": "Brown",
+                "score": 0.9120761156082153
+            },
+            {
+                "description": "Rug",
+                "score": 0.7142939567565918
+            },
+            {
+                "description": "Silver",
+                "score": 0.6975663304328918
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.6462085247039795
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 158.0,
+                    "green": 154.0,
+                    "blue": 142.0
+                },
+                "score": 0.8209348917007446
+            },
+            {
+                "color": {
+                    "red": 136.0,
+                    "green": 132.0,
+                    "blue": 120.0
+                },
+                "score": 0.09420692175626755
+            },
+            {
+                "color": {
+                    "red": 184.0,
+                    "green": 180.0,
+                    "blue": 168.0
+                },
+                "score": 0.05390147864818573
+            },
+            {
+                "color": {
+                    "red": 158.0,
+                    "green": 155.0,
+                    "blue": 138.0
+                },
+                "score": 0.025439389050006866
+            },
+            {
+                "color": {
+                    "red": 134.0,
+                    "green": 131.0,
+                    "blue": 114.0
+                },
+                "score": 0.004124481696635485
+            },
+            {
+                "color": {
+                    "red": 184.0,
+                    "green": 181.0,
+                    "blue": 164.0
+                },
+                "score": 0.0013928223634138703
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81330-3.jpg",
+        "labels": [
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Wood flooring",
+                "score": 0.6956163048744202
+            },
+            {
+                "description": "Silver",
+                "score": 0.6944611668586731
+            },
+            {
+                "description": "Hardwood",
+                "score": 0.6148959994316101
+            },
+            {
+                "description": "Plank",
+                "score": 0.5847640633583069
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5027434825897217
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 221.0,
+                    "green": 223.0,
+                    "blue": 216.0
+                },
+                "score": 0.7591714859008789
+            },
+            {
+                "color": {
+                    "red": 210.0,
+                    "green": 211.0,
+                    "blue": 205.0
+                },
+                "score": 0.2408284991979599
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS WH502-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9741713404655457
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 245.0,
+                    "green": 245.0,
+                    "blue": 245.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81335-5.jpg",
+        "labels": [
+            {
+                "description": "Brown",
+                "score": 0.9112251996994019
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.59266197681427
+            },
+            {
+                "description": "Rug",
+                "score": 0.5070807933807373
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 239.0,
+                    "green": 235.0,
+                    "blue": 206.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8604-8.jpg",
+        "labels": [
+            {
+                "description": "Brown",
+                "score": 0.915423572063446
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Linen",
+                "score": 0.6997159123420715
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.6252403259277344
+            },
+            {
+                "description": "Linens",
+                "score": 0.5578519105911255
+            },
+            {
+                "description": "Woven fabric",
+                "score": 0.5450178384780884
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 205.0,
+                    "green": 196.0,
+                    "blue": 187.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6099-4.jpg",
+        "labels": [
+            {
+                "description": "Blue",
+                "score": 0.9888558387756348
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 220.0,
+                    "green": 240.0,
+                    "blue": 241.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8604-6.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9693179726600647
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Linen",
+                "score": 0.6339514255523682
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5330228805541992
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 222.0,
+                    "green": 217.0,
+                    "blue": 211.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8609-7.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9701318740844727
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 208.0,
+                    "green": 209.0,
+                    "blue": 214.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN BLOOM 82093-1.jpg",
+        "labels": [
+            {
+                "description": "Pink",
+                "score": 0.9256078004837036
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.6364752650260925
+            },
+            {
+                "description": "Floral design",
+                "score": 0.6343019008636475
+            },
+            {
+                "description": "Pedicel",
+                "score": 0.6079627871513367
+            },
+            {
+                "description": "Wrapping Paper",
+                "score": 0.5619545578956604
+            },
+            {
+                "description": "Wildflower",
+                "score": 0.5577142238616943
+            },
+            {
+                "description": "Geraniums",
+                "score": 0.5038679242134094
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 242.0,
+                    "green": 235.0,
+                    "blue": 225.0
+                },
+                "score": 0.9421111941337585
+            },
+            {
+                "color": {
+                    "red": 210.0,
+                    "green": 202.0,
+                    "blue": 192.0
+                },
+                "score": 0.05682918429374695
+            },
+            {
+                "color": {
+                    "red": 176.0,
+                    "green": 163.0,
+                    "blue": 155.0
+                },
+                "score": 0.0010596230858936906
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6087-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9749975800514221
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 245.0,
+                    "green": 244.0,
+                    "blue": 240.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8621-3.jpg",
+        "labels": [
+            {
+                "description": "Brown",
+                "score": 0.9144588112831116
+            },
+            {
+                "description": "Triangle",
+                "score": 0.712725043296814
+            },
+            {
+                "description": "Design",
+                "score": 0.6768717765808105
+            },
+            {
+                "description": "Pattern",
+                "score": 0.5023856163024902
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 238.0,
+                    "green": 231.0,
+                    "blue": 212.0
+                },
+                "score": 0.9172919988632202
+            },
+            {
+                "color": {
+                    "red": 215.0,
+                    "green": 208.0,
+                    "blue": 189.0
+                },
+                "score": 0.08243269473314285
+            },
+            {
+                "color": {
+                    "red": 242.0,
+                    "green": 234.0,
+                    "blue": 221.0
+                },
+                "score": 0.0002753230801317841
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6100-2.jpg",
+        "labels": [
+            {
+                "description": "Ornament",
+                "score": 0.7475247383117676
+            },
+            {
+                "description": "Creative arts",
+                "score": 0.698178231716156
+            },
+            {
+                "description": "Motif",
+                "score": 0.692730724811554
+            },
+            {
+                "description": "Floral design",
+                "score": 0.5923911333084106
+            },
+            {
+                "description": "Chandelier",
+                "score": 0.5055102705955505
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 101.0,
+                    "green": 80.0,
+                    "blue": 55.0
+                },
+                "score": 0.3391830623149872
+            },
+            {
+                "color": {
+                    "red": 175.0,
+                    "green": 150.0,
+                    "blue": 120.0
+                },
+                "score": 0.22874508798122406
+            },
+            {
+                "color": {
+                    "red": 239.0,
+                    "green": 234.0,
+                    "blue": 228.0
+                },
+                "score": 0.025576205924153328
+            },
+            {
+                "color": {
+                    "red": 137.0,
+                    "green": 115.0,
+                    "blue": 87.0
+                },
+                "score": 0.16851191222667694
+            },
+            {
+                "color": {
+                    "red": 74.0,
+                    "green": 54.0,
+                    "blue": 33.0
+                },
+                "score": 0.07915065437555313
+            },
+            {
+                "color": {
+                    "red": 208.0,
+                    "green": 186.0,
+                    "blue": 159.0
+                },
+                "score": 0.07619583606719971
+            },
+            {
+                "color": {
+                    "red": 242.0,
+                    "green": 225.0,
+                    "blue": 203.0
+                },
+                "score": 0.014890768565237522
+            },
+            {
+                "color": {
+                    "red": 74.0,
+                    "green": 48.0,
+                    "blue": 28.0
+                },
+                "score": 0.01049386989325285
+            },
+            {
+                "color": {
+                    "red": 104.0,
+                    "green": 74.0,
+                    "blue": 49.0
+                },
+                "score": 0.00862222258001566
+            },
+            {
+                "color": {
+                    "red": 206.0,
+                    "green": 195.0,
+                    "blue": 185.0
+                },
+                "score": 0.007903993129730225
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8616-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9688690900802612
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 238.0,
+                    "green": 231.0,
+                    "blue": 223.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS WH506-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9731382131576538
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 247.0,
+                    "green": 247.0,
+                    "blue": 247.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6098-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9649268388748169
+            },
+            {
+                "description": "Design",
+                "score": 0.675279974937439
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.5466194152832031
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 239.0,
+                    "green": 229.0,
+                    "blue": 217.0
+                },
+                "score": 0.9440246820449829
+            },
+            {
+                "color": {
+                    "red": 235.0,
+                    "green": 228.0,
+                    "blue": 212.0
+                },
+                "score": 0.05597531050443649
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81330-4.jpg",
+        "labels": [
+            {
+                "description": "Wood flooring",
+                "score": 0.8728147149085999
+            },
+            {
+                "description": "Natural material",
+                "score": 0.7548247575759888
+            },
+            {
+                "description": "Hardwood",
+                "score": 0.7439582943916321
+            },
+            {
+                "description": "Silver",
+                "score": 0.7080212235450745
+            },
+            {
+                "description": "Plank",
+                "score": 0.670478880405426
+            },
+            {
+                "description": "Laminate flooring",
+                "score": 0.6051999926567078
+            },
+            {
+                "description": "Rug",
+                "score": 0.5238324999809265
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 194.0,
+                    "green": 187.0,
+                    "blue": 177.0
+                },
+                "score": 0.8303527235984802
+            },
+            {
+                "color": {
+                    "red": 175.0,
+                    "green": 168.0,
+                    "blue": 158.0
+                },
+                "score": 0.1682368516921997
+            },
+            {
+                "color": {
+                    "red": 223.0,
+                    "green": 217.0,
+                    "blue": 207.0
+                },
+                "score": 0.0014104333240538836
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6085-3.jpg",
+        "labels": [],
+        "colors": [
+            {
+                "color": {
+                    "red": 187.0,
+                    "green": 182.0,
+                    "blue": 179.0
+                },
+                "score": 0.9478501081466675
+            },
+            {
+                "color": {
+                    "red": 178.0,
+                    "green": 173.0,
+                    "blue": 170.0
+                },
+                "score": 0.05214989557862282
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81335-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9707487225532532
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 245.0,
+                    "green": 244.0,
+                    "blue": 240.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8607-8.jpg",
+        "labels": [
+            {
+                "description": "Blue",
+                "score": 0.9877597689628601
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Linen",
+                "score": 0.5935903787612915
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 184.0,
+                    "green": 196.0,
+                    "blue": 208.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8609-8.jpg",
+        "labels": [
+            {
+                "description": "Blue",
+                "score": 0.9892616868019104
+            },
+            {
+                "description": "Denim",
+                "score": 0.775230884552002
+            },
+            {
+                "description": "Woven fabric",
+                "score": 0.6068902015686035
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 47.0,
+                    "green": 65.0,
+                    "blue": 87.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "HERA6 6086-3.jpg",
+        "labels": [
+            {
+                "description": "Petal",
+                "score": 0.9248785376548767
+            },
+            {
+                "description": "Pink",
+                "score": 0.881660521030426
+            },
+            {
+                "description": "Motif",
+                "score": 0.5570225119590759
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 224.0,
+                    "green": 207.0,
+                    "blue": 182.0
+                },
+                "score": 0.6010080575942993
+            },
+            {
+                "color": {
+                    "red": 235.0,
+                    "green": 218.0,
+                    "blue": 194.0
+                },
+                "score": 0.3969250023365021
+            },
+            {
+                "color": {
+                    "red": 240.0,
+                    "green": 225.0,
+                    "blue": 213.0
+                },
+                "score": 0.001830724417231977
+            },
+            {
+                "color": {
+                    "red": 224.0,
+                    "green": 207.0,
+                    "blue": 195.0
+                },
+                "score": 0.0001771531387930736
+            },
+            {
+                "color": {
+                    "red": 195.0,
+                    "green": 171.0,
+                    "blue": 143.0
+                },
+                "score": 5.905104990233667e-05
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8608-6.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.9655704498291016
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Silver",
+                "score": 0.696916401386261
+            },
+            {
+                "description": "Linen",
+                "score": 0.6008138656616211
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 223.0,
+                    "green": 218.0,
+                    "blue": 212.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81336-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.970325231552124
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            },
+            {
+                "description": "Wallpaper",
+                "score": 0.6298885941505432
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 244.0,
+                    "green": 243.0,
+                    "blue": 239.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "JOINUS 8609-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 0.972974956035614
+            },
+            {
+                "description": "Grey",
+                "score": 0.8293830752372742
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 247.0,
+                    "green": 247.0,
+                    "blue": 247.0
+                },
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "file_name": "GN BLOOM 82097-2.jpg",
+        "labels": [
+            {
+                "description": "Pink",
+                "score": 0.9058765769004822
+            },
+            {
+                "description": "Petal",
+                "score": 0.8587973713874817
+            },
+            {
+                "description": "Purple",
+                "score": 0.8407025933265686
+            },
+            {
+                "description": "Wildflower",
+                "score": 0.5466593503952026
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 192.0,
+                    "green": 196.0,
+                    "blue": 176.0
+                },
+                "score": 0.3545958399772644
+            },
+            {
+                "color": {
+                    "red": 226.0,
+                    "green": 230.0,
+                    "blue": 209.0
+                },
+                "score": 0.189056396484375
+            },
+            {
+                "color": {
+                    "red": 165.0,
+                    "green": 169.0,
+                    "blue": 149.0
+                },
+                "score": 0.1671721339225769
+            },
+            {
+                "color": {
+                    "red": 201.0,
+                    "green": 194.0,
+                    "blue": 183.0
+                },
+                "score": 0.12113311141729355
+            },
+            {
+                "color": {
+                    "red": 234.0,
+                    "green": 231.0,
+                    "blue": 218.0
+                },
+                "score": 0.08617737889289856
+            },
+            {
+                "color": {
+                    "red": 174.0,
+                    "green": 169.0,
+                    "blue": 157.0
+                },
+                "score": 0.069797083735466
+            },
+            {
+                "color": {
+                    "red": 172.0,
+                    "green": 186.0,
+                    "blue": 163.0
+                },
+                "score": 0.006823001895099878
+            },
+            {
+                "color": {
+                    "red": 216.0,
+                    "green": 232.0,
+                    "blue": 209.0
+                },
+                "score": 0.005111389793455601
+            },
+            {
+                "color": {
+                    "red": 162.0,
+                    "green": 176.0,
+                    "blue": 153.0
+                },
+                "score": 0.00010415181168355048
+            },
+            {
+                "color": {
+                    "red": 135.0,
+                    "green": 138.0,
+                    "blue": 119.0
+                },
+                "score": 2.951450369437225e-05
+            }
+        ]
+    },
+    {
+        "file_name": "GN CAR 81332-2.jpg",
+        "labels": [
+            {
+                "description": "Yellow",
+                "score": 0.9656797647476196
+            },
+            {
+                "description": "Close-up",
+                "score": 0.8573088049888611
+            },
+            {
+                "description": "Natural material",
+                "score": 0.6956083178520203
+            }
+        ],
+        "colors": [
+            {
+                "color": {
+                    "red": 234.0,
+                    "green": 205.0,
+                    "blue": 112.0
+                },
+                "score": 0.48457765579223633
+            },
+            {
+                "color": {
+                    "red": 233.0,
+                    "green": 204.0,
+                    "blue": 135.0
+                },
+                "score": 0.1588078737258911
+            },
+            {
+                "color": {
+                    "red": 242.0,
+                    "green": 220.0,
+                    "blue": 156.0
+                },
+                "score": 0.11584411561489105
+            },
+            {
+                "color": {
+                    "red": 243.0,
+                    "green": 216.0,
+                    "blue": 124.0
+                },
+                "score": 0.07362908124923706
+            },
+            {
+                "color": {
+                    "red": 248.0,
+                    "green": 232.0,
+                    "blue": 197.0
+                },
+                "score": 0.053777989000082016
+            },
+            {
+                "color": {
+                    "red": 221.0,
+                    "green": 211.0,
+                    "blue": 105.0
+                },
+                "score": 0.024461977183818817
+            },
+            {
+                "color": {
+                    "red": 233.0,
+                    "green": 206.0,
+                    "blue": 84.0
+                },
+                "score": 0.020532190799713135
+            },
+            {
+                "color": {
+                    "red": 252.0,
+                    "green": 243.0,
+                    "blue": 239.0
+                },
+                "score": 0.011254084296524525
+            },
+            {
+                "color": {
+                    "red": 231.0,
+                    "green": 231.0,
+                    "blue": 156.0
+                },
+                "score": 0.010324642062187195
+            },
+            {
+                "color": {
+                    "red": 228.0,
+                    "green": 222.0,
+                    "blue": 119.0
+                },
+                "score": 0.01005748100578785
+            }
+        ]
+    }
+]
